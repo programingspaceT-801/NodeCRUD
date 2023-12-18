@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "project test api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgramingspaceT-800/NodeCRUD.git"
+  },
+  "keywords": [
+    "Fcb@1011"
+  ],
+  "author": "Marcosjr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProgramingspaceT-800/NodeCRUD/issues"
+  },
+  "homepage": "https://github.com/ProgramingspaceT-800/NodeCRUD#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
